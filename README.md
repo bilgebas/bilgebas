@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bilgebas
+- I am a student in Istanbul Commerce University. My department is Computer Engineering. 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and C programming
+- 🌱 I’m currently learning Java, Python, HTML and C programming
 - 📫 You can reach me in bilgebassss@gmail.com
--  I am a student in Istanbul Commerce University. My department is Computer Engineering. 
 
 <!---
 bilgebas/bilgebas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
